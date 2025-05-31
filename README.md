@@ -1,5 +1,3 @@
-# rossmann_store_sales_TS
-
 # Rossmann Store Sales Time Series Forecasting
 
 This project aims to forecast daily sales for Rossmann stores using a variety of time series and machine learning models. The workflow includes data preprocessing, exploratory data analysis (EDA), feature engineering, model training, evaluation, and submission preparation for a Kaggle-style competition.
